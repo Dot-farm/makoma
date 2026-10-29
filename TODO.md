@@ -1,0 +1,6 @@
+# TODO
+
+- [x] **Research-backed brand story and bead showcase.** The site presents M’AKOMA’s jewelry-first beaded-technology story and a curated showcase of its six-person-bead bracelet with prominent official product imagery, the product name, and concise details. Symbol descriptions use the eight names and meanings published on the official site; product availability and pricing link to the official page rather than hard-coding changing details.
+- [x] **Interactive 3D product experience.** Create an immersive landing experience with layered depth, motion, and bead-focused visual storytelling. Include interactive product viewing with depth effects, hover or drag interactions, smooth animated transitions, and a cursor-responsive background around the Makoma Beads product.
+- [ ] **User-image integration.** Integrate the user's product images and art-direct them for the site. No user images were attached in this session; the current version uses accurate public M’AKOMA product photos as stand-ins, and the image placements are replaceable.
+- [x] **Responsive, accessible calls to action.** Include clear links for people interested in the product or brand, optimize the experience for desktop, tablet, and mobile, and provide keyboard-operable controls and reduced-motion behavior.
